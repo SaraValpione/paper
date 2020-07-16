@@ -1,5 +1,5 @@
 # Title
-Ageing of biomass burning aerosols over West Africa
+Aircraft measurements of biomass burning aerosols over West Africa
 
 # Author
 Sara Valpione
