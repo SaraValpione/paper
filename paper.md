@@ -1,3 +1,7 @@
+# Description
+
+Paper draft
+
 # Title
 Aircraft measurements and simulation of biomass burning aerosols over West Africa
 
