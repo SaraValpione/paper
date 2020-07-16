@@ -4,6 +4,7 @@ Aircraft measurements and simulation of biomass burning aerosols over West Afric
 # Author
 John Smith, UoE
 Sara Valpione, UoM
+Simon Pearce, UoM
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa
@@ -18,3 +19,6 @@ We simulate the evolution of particle sizes as they are transported away from th
 
 We compared our measurements of particle ageing with a model simulation.
 The model is detailed in Smith et al 2002.
+
+#Results
+ And we did some other stuff
