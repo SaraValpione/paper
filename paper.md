@@ -21,4 +21,4 @@ We compared our measurements of particle ageing with a model simulation.
 The model is detailed in Smith et al 2002.
 
 #Results
- And we did some other stuff
+The particle was very small.
