@@ -1,2 +1,3 @@
-Bloggs et al PCASP 2004
-Jones et al 1994 previous studies
+Bloggs et al 2004, PCAS
+Jones et al 1994, previous studies
+Smith et al 2002, atmosferic dust model

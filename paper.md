@@ -15,3 +15,6 @@ A large uncertainty in modelling BBOA is extent to which measurements in the lit
 
 #Simulation section
 We simulate the evolution of particle sizes as they are transported away from the production region.
+
+#We compared our measurements of particle ageing with a model simulation.
+The model is detailed in Smith et al 2002.
