@@ -2,8 +2,8 @@
 Aircraft measurements and simulation of biomass burning aerosols over West Africa
 
 # Author
-Sara Valpione
-John Smith
+Sara Valpione, UoM
+John Smith, UoE
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa
